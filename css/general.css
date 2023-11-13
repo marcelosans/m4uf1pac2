@@ -1,0 +1,58 @@
+.general
+{
+    text-align: center;
+}
+
+
+
+
+
+.personatges img
+{
+ float: left;
+ padding-bottom : 1em;
+ padding: 3em;
+ height: 150px;
+ width: 200px;
+}
+
+.personatges p
+{
+  clear: right;
+  text-align: justify;
+  margin: 2em;
+  padding: 2em;
+}
+
+.personatges h2
+{
+    clear: both;
+    margin: 1em;
+    padding-top: 1em;
+}
+
+.personatges
+{
+    background: rgb(255,247,0);
+    background: linear-gradient(0deg, rgba(255,247,0,1) 0%, rgba(253,187,45,1) 100%);
+    width: 75%;
+    margin: 3em;
+    border-radius: 10px;
+}
+
+#oudur img
+{
+    padding: 0.5em;
+    padding-right: 1em;
+}
+
+#gyudechama img
+{
+    margin: 4em;
+    
+}
+
+section h1
+{
+    margin: 2.5em;
+}
