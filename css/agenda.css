@@ -8,3 +8,8 @@ table th
     background-color: yellow;
     color: black;
 }
+
+#taula
+{
+    border-collapse: collapse;
+}

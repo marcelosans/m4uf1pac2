@@ -1,0 +1,22 @@
+body {
+    background-image: url(../img/fons-transparent.jpg);
+  }
+
+section img
+{
+    border-style: solid;
+}
+
+section div 
+{
+    position: relative;
+    left: 10%;
+}
+
+main h1
+{
+    margin-top: 2em;
+    text-align: center;
+}
+
+
