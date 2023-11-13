@@ -3,10 +3,6 @@
     text-align: center;
 }
 
-
-
-
-
 .personatges img
 {
  float: left;
@@ -38,6 +34,7 @@
     width: 75%;
     margin: 3em;
     border-radius: 10px;
+    border-style: solid;
 }
 
 #oudur img
@@ -56,3 +53,4 @@ section h1
 {
     margin: 2.5em;
 }
+

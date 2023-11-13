@@ -1,0 +1,70 @@
+body {
+    background-image: url(../img/fons-transparent.jpg);
+  }
+
+
+.formulari
+{
+    background: rgb(255,185,5);
+    background: linear-gradient(90deg, rgba(255,185,5,1) 0%, rgba(253,201,29,1) 50%, rgba(252,176,69,1) 100%);
+    width: 40%;  
+    margin: 2em;
+    float: right;
+    border-radius: 10px;
+    border-style: solid;
+    
+}
+
+.mapa
+{
+    background: rgb(255,185,5);
+    background: linear-gradient(90deg, rgba(255,185,5,1) 0%, rgba(253,201,29,1) 50%, rgba(252,176,69,1) 100%);  
+    width: 50%;
+    margin: 2em;
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.mapa h1
+{
+    margin: 0.5em;
+    padding-top: 1em;
+    
+}
+
+.mapa h4
+{
+    margin: 1em;
+    padding-top: 1em;
+    
+}
+
+.mapa iframe
+{
+    margin: 1em;
+    padding-top: 1em;
+
+}
+
+label
+{
+    margin: 1em;
+}
+
+textarea
+{
+    margin: 1em;
+}
+
+.formulari h1,h4
+{
+    margin: 1em;
+}
+
+*[type=submit]
+{
+    margin: 2em;
+    margin-bottom: 5em;
+    background-color: orange;
+}
