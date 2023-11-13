@@ -48,8 +48,21 @@ header nav ul {
     height: 15vh;
     text-align: center;
     
+    
   }
 
+  footer a
+  {
+    text-decoration: none;
+    color: black;
+    margin: 1em;
+  }
+
+  footer a:hover
+  {
+    text-decoration: underline;
+    color: red;
+  }
  
  header
  {
